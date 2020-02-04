@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69e6f1c0-6a53-497a-97d8-434510ce85de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CTCI_LinkedLists/Linker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CTCI_LinkedLists/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CTCI_LinkedLists/Practice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Linker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,7 @@
       <workItem from="1580344195103" duration="605000" />
       <workItem from="1580344991862" duration="555000" />
       <workItem from="1580500748802" duration="1904000" />
-      <workItem from="1580831723157" duration="5166000" />
+      <workItem from="1580831723157" duration="5300000" />
     </task>
     <servers />
   </component>
