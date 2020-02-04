@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69e6f1c0-6a53-497a-97d8-434510ce85de" name="Default Changelist" comment="" />
+    <list default="true" id="69e6f1c0-6a53-497a-97d8-434510ce85de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CTCI_LinkedLists/Linker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CTCI_LinkedLists/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CTCI_LinkedLists/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X5mBAS2siIgKw5yoGRJeWMgY31" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +33,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="CTCI_LinkedLists" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practice" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,6 +75,8 @@
       <updated>1580344192243</updated>
       <workItem from="1580344195103" duration="605000" />
       <workItem from="1580344991862" duration="555000" />
+      <workItem from="1580500748802" duration="1904000" />
+      <workItem from="1580831723157" duration="5166000" />
     </task>
     <servers />
   </component>
@@ -56,9 +84,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1580344195842">
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1580848102329">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1580344195842" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1580848102329" />
+    <state width="854" height="341" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941194" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1580848102327">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1580848102327" />
+    <state width="854" height="341" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941193" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1580848102327">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1580848102327" />
+    <state width="854" height="341" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941193" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1580848102328">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1580848102328" />
+    <state width="854" height="341" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941194" />
+    <state width="1750" height="341" key="GridCell.Tab.1.bottom" timestamp="1580832350150">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1580832350150" />
+    <state width="854" height="341" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941317" />
+    <state width="1750" height="341" key="GridCell.Tab.1.center" timestamp="1580832350149">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1580832350149" />
+    <state width="854" height="341" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941317" />
+    <state width="1750" height="341" key="GridCell.Tab.1.left" timestamp="1580832350149">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1580832350149" />
+    <state width="854" height="341" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941316" />
+    <state width="1750" height="341" key="GridCell.Tab.1.right" timestamp="1580832350150">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1580832350150" />
+    <state width="854" height="341" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1580586941317" />
+    <state x="573" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1580831736087">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="379" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1580831736087" />
   </component>
 </project>
